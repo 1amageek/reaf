@@ -1,5 +1,9 @@
 {
-	"name": "reaf",
+	"private": false,
+	"name": "@1amageek/reaf",
+	"publishConfig": {
+		"access": "public"
+	},
 	"version": "1.0.0",
 	"description": "Host Next.js SSR app on Firebase Cloud Functions with Firebase Hosting redirects. Built with typescript.",
 	"engines": {
